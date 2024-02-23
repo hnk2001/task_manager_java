@@ -1,4 +1,4 @@
-package com.harshal.task_manager_java;
+package com.harshal.task_manager_java.DTO;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
